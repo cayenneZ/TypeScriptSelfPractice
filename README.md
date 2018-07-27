@@ -1,0 +1,2 @@
+# TypeScriptSelfPractice
+Learn TypeScript
